@@ -1,0 +1,762 @@
+2025-09-28 14:05:52,036 - ERROR - Error loading models: [Errno 2] No such file or directory: 'model.pkl'
+2025-09-28 14:08:54,188 - INFO - ML models loaded successfully
+2025-09-28 14:13:55,786 - ERROR - Failed to connect to mailbox: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-09-28 14:23:48,143 - INFO - ML models loaded successfully
+2025-09-28 14:24:32,012 - INFO - ML models loaded successfully
+2025-09-28 14:29:35,159 - INFO - Connected to mailbox successfully
+2025-09-28 14:29:36,415 - INFO - Processed email from Google Community Team <googlecommunityteam-noreply@google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:36,939 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-09-28 14:29:37,566 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:38,160 - INFO - Processed email from Google Play <googleplay-noreply@google.com>: Safe Email (Ham)
+2025-09-28 14:29:38,661 - INFO - Processed email from "Call of Duty" <noreply@updates.activision.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:39,154 - INFO - Processed email from Nord Account <support@nordaccount.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:29:39,670 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:40,120 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:40,596 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:41,081 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:41,551 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:42,078 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:42,532 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:42,950 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:43,418 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:43,915 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:44,410 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:44,890 - INFO - Processed email from "Activision Publishing" <activision@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:29:45,371 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:45,869 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:46,365 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:29:46,844 - INFO - Processed email from The Google Account Team <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:47,322 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:47,760 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:48,186 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:48,636 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:49,101 - INFO - Processed email from TapTap <noreply@dm.taptap.io>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:49,568 - INFO - Processed email from Kros from TapTap <kros@mail.taptap.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:49,999 - INFO - Processed email from "Activision Publishing" <activision@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:29:50,477 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:50,972 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:51,451 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:51,954 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:52,463 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:29:52,941 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:29:53,418 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:29:53,881 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:54,329 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:54,854 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:55,347 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:55,827 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:29:56,290 - INFO - Processed email from TeraBox <no-reply@terabox.com>: Phishing Detected! Intent: Credential Harvesting
+2025-09-28 14:29:56,801 - INFO - Processed email from Reddit <noreply@reddit.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:57,281 - INFO - Processed email from Crunchyroll <hello@info.crunchyroll.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:57,764 - INFO - Processed email from =?UTF-8?B?VHVyYm9EdWNrLm5ldA==?= <no-reply@turboduck.net>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:29:58,294 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:58,734 - INFO - Processed email from "Activision Publishing" <activision@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:29:59,223 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:29:59,714 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:00,191 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:00,721 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:01,152 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:01,622 - INFO - Processed email from TeraBox <no-reply@terabox.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:02,153 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:02,615 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:03,112 - INFO - Processed email from Google <google-noreply@google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:03,545 - INFO - Processed email from Google Accounts Team <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:04,080 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:04,526 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:04,957 - INFO - Processed email from Google <google-noreply@google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:05,498 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:05,994 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:06,638 - INFO - Processed email from Atlas VPN <no-reply@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:07,292 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:07,915 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:08,607 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:09,262 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:09,899 - INFO - Processed email from Discord <notifications@discord.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:10,391 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:10,947 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:11,394 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:11,794 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:12,302 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:12,749 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:13,181 - INFO - Processed email from Google Play <googleplay-noreply@google.com>: Safe Email (Ham)
+2025-09-28 14:30:13,751 - INFO - Processed email from Proton <no-reply@news.proton.me>: Safe Email (Ham)
+2025-09-28 14:30:14,215 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:14,979 - INFO - Processed email from Proton <no-reply@offers.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:15,418 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:15,886 - INFO - Processed email from Google <google-noreply@google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:16,347 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:16,747 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:17,921 - INFO - Processed email from Proton <no-reply@offers.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:18,345 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:18,800 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:19,195 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:19,623 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:20,077 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:20,507 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:20,932 - INFO - Processed email from Discord <notifications@discord.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:21,359 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:21,818 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:22,290 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:22,759 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:23,189 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:23,634 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:24,065 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:24,572 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:25,042 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:25,509 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:27,417 - INFO - Processed email from Proton <no-reply@news.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:27,879 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:28,356 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:28,866 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:29,341 - INFO - Processed email from YouTube <no-reply@youtube.com>: Safe Email (Ham)
+2025-09-28 14:30:29,817 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:30,261 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:30,803 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:31,303 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:31,734 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:32,224 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:32,718 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:33,148 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:33,593 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:34,171 - INFO - Processed email from Discord <notifications@discord.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:34,650 - INFO - Processed email from Google <no-reply@accounts.google.com>: Safe Email (Ham)
+2025-09-28 14:30:35,155 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:35,632 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:36,079 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:36,621 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:37,072 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:37,501 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:38,075 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Financial Fraud
+2025-09-28 14:30:38,568 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:39,013 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:39,522 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:40,029 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:40,521 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:41,093 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:41,758 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:42,416 - INFO - Processed email from noreply@email.hoyoverse.com: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:43,021 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:43,690 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:44,371 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:45,101 - INFO - Processed email from "P.A.I.M.O.N" <noreply.news@e-mail.hoyoverse.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:45,754 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:46,327 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:46,774 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:47,261 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:47,740 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:48,147 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:48,580 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:49,008 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:49,467 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:49,945 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:50,429 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:50,921 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:51,401 - INFO - Processed email from Discord <notifications@discord.com>: Safe Email (Ham)
+2025-09-28 14:30:51,880 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:52,366 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:52,874 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:53,324 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:53,749 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 14:30:54,187 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:54,697 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:30:55,127 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:55,572 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:56,033 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:56,509 - INFO - Processed email from Google Play <googleplay-noreply@google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:30:56,945 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:57,360 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:57,834 - INFO - Processed email from Atlas VPN <hello@atlasvpn.com>: Safe Email (Ham)
+2025-09-28 14:30:58,281 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:58,710 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:59,170 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:30:59,695 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:31:00,157 - INFO - Processed email from "WordPress.com" <donotreply@wordpress.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:31:00,685 - INFO - Processed email from "WordPress.com" <welcome@wordpress.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:31:01,168 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:31:01,653 - INFO - Processed email from "WordPress.com" <welcome@wordpress.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:31:02,071 - INFO - Processed email from "WordPress.com" <welcome@wordpress.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 14:31:02,533 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:31:02,970 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:31:03,401 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 14:31:03,880 - INFO - Processed email from "WordPress.com" <welcome@wordpress.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 14:31:04,390 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:33:19,096 - INFO - ML models loaded successfully
+2025-09-28 16:38:20,759 - INFO - Connected to mailbox successfully
+2025-09-28 16:38:22,460 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:22,466 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:22,897 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:22,902 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:23,358 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:23,370 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:23,816 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:23,828 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:24,260 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:24,270 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:24,700 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:24,712 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:25,141 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:25,154 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:25,556 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:25,560 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:25,997 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:26,007 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:26,411 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:26,417 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:26,846 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:26,857 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:27,255 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:27,260 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:27,715 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:27,726 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:28,219 - INFO - Processed email from "Microsoft Copilot" <Copilot@engage.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:28,229 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:28,622 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:28,627 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:29,023 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:29,030 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:29,467 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:29,478 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:29,901 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:29,912 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:30,322 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:30,326 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:30,735 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:30,741 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:31,184 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:31,194 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:31,635 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:31,649 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:32,093 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:32,105 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:33,418 - INFO - Processed email from adikesavan <adikesavan2306@gmail.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:33,428 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:33,862 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:33,872 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:34,295 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:34,303 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:34,687 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:34,691 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:35,078 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:35,083 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:35,466 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:35,470 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:35,920 - INFO - Processed email from Palia Accounts <accounts@palia.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:38:35,934 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:36,329 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:36,333 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:36,758 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:36,771 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:37,194 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:37,207 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:37,606 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:37,614 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:38,013 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:38,017 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:38,470 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:38,485 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:38,940 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:38,955 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:39,343 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:39,346 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:39,765 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:39,777 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:40,181 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:40,194 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:40,576 - INFO - Processed email from Palia Accounts <accounts@palia.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:38:40,580 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:40,968 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:40,972 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:41,369 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:41,383 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:41,826 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:41,840 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:42,257 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:42,262 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:42,682 - INFO - Processed email from 
+	"official@user.kurogame-service.com" <official@user.kurogame-service.com>: Safe Email (Ham)
+2025-09-28 16:38:42,696 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:43,165 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:43,176 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:43,615 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:43,621 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:44,058 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:44,072 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:44,517 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:44,531 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:44,926 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:44,929 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:45,311 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:45,316 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:45,735 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:45,746 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:46,157 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:46,170 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:46,593 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:46,607 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:47,030 - INFO - Processed email from Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:47,044 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:47,437 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:47,450 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:47,897 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:38:47,910 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:48,390 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:48,403 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:48,951 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:48,966 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:49,561 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:49,573 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:50,155 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:50,169 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:51,098 - INFO - Processed email from =?iso-8859-1?q?My=A0Kaspersky?= <noreply@mail.my.kaspersky.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:38:51,111 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:51,641 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQuY29t?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:38:51,655 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:52,140 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQuY29t?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:52,152 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:52,576 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:52,590 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:53,014 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:53,026 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:53,443 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:53,457 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:53,885 - INFO - Processed email from "Microsoft Copilot" <Copilot@engage.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:53,899 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:54,332 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:54,346 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:54,785 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:54,796 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:55,166 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Safe Email (Ham)
+2025-09-28 16:38:55,173 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:55,599 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:55,612 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:56,045 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:56,060 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:56,490 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:56,501 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:57,108 - INFO - Processed email from =?iso-8859-1?q?My=A0Kaspersky?= <noreply@mail.my.kaspersky.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:38:57,118 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:57,507 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:57,518 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:57,971 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:57,985 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:58,388 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:58,401 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:58,834 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:58,846 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:59,249 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:38:59,264 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:38:59,703 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:38:59,718 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:00,194 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:39:00,206 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:00,580 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:39:00,584 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:01,002 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:39:01,012 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:01,465 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:39:01,479 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:01,860 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:39:01,863 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:02,303 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:39:02,316 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:02,696 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Safe Email (Ham)
+2025-09-28 16:39:02,700 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:03,099 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:39:03,113 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:03,566 - INFO - Processed email from Start Daily <microsoft.start@email2.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:39:03,580 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:03,981 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:39:03,995 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:04,417 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:39:04,430 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:04,838 - INFO - Processed email from "Microsoft 365" <Microsoft365@infomail.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:39:04,851 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:05,247 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:39:05,255 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:05,926 - INFO - Processed email from =?iso-8859-1?q?My=A0Kaspersky?= <noreply@mail.my.kaspersky.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:39:05,939 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:39:06,343 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:39:06,356 - ERROR - Error saving to CSV: [Errno 13] Permission denied: 'processed_emails.csv'
+2025-09-28 16:41:30,329 - INFO - ML models loaded successfully
+2025-09-28 16:46:32,930 - INFO - Connected to mailbox successfully
+2025-09-28 16:46:34,146 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:34,718 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:35,369 - INFO - Processed email from "Microsoft Copilot" <Copilot@engage.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:35,868 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <info@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:36,341 - INFO - Processed email from Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:46:36,853 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:37,391 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:37,931 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:38,384 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:38,827 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:39,341 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:39,826 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:40,281 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Safe Email (Ham)
+2025-09-28 16:46:40,750 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:41,205 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:41,710 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:42,432 - INFO - Processed email from =?iso-8859-1?q?My=A0Kaspersky?= <noreply@mail.my.kaspersky.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:46:42,911 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:43,441 - INFO - Processed email from "Lootbar.gg" <noreply@edm.lootbar.gg>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:43,953 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:44,431 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Financial Fraud
+2025-09-28 16:46:44,941 - INFO - Processed email from "Lootbar.gg" <noreply@edm.lootbar.gg>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:45,382 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:45,964 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:46,494 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:47,131 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:47,587 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:48,124 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:48,605 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:49,136 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Safe Email (Ham)
+2025-09-28 16:46:49,577 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:50,087 - INFO - Processed email from Google Play <googleplay-noreply@google.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:50,597 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:51,058 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Safe Email (Ham)
+2025-09-28 16:46:51,485 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:51,907 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:52,376 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:52,837 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:53,336 - INFO - Processed email from LootBar.gg <genshinservice@edm.lootbar.gg>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:53,892 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:54,393 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Phishing Detected! Intent: Financial Fraud
+2025-09-28 16:46:54,934 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:55,523 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:56,007 - INFO - Processed email from HackerRank Team <hackers@hackerrankmail.com>: Safe Email (Ham)
+2025-09-28 16:46:56,557 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:57,016 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:57,470 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:57,913 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:46:58,453 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Safe Email (Ham)
+2025-09-28 16:46:58,917 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:59,474 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:46:59,987 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:00,553 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:01,050 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:01,647 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:02,077 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:02,547 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:03,028 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:03,477 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:03,957 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:04,443 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:04,938 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:05,477 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:06,127 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:06,608 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:07,089 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:07,560 - INFO - Processed email from Microsoft <msa@communication.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:08,047 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:08,528 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Safe Email (Ham)
+2025-09-28 16:47:08,994 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:09,467 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:09,912 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:10,343 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:10,870 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:11,410 - INFO - Processed email from "Microsoft Copilot" <Copilot@engage.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:11,871 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:12,486 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:13,127 - INFO - Processed email from LootBar.gg <genshinservice@edm.lootbar.gg>: Safe Email (Ham)
+2025-09-28 16:47:13,837 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:14,489 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:15,127 - INFO - Processed email from Discord <noreply@discord.com>: Safe Email (Ham)
+2025-09-28 16:47:15,748 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 16:47:16,278 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <confirm@account.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:16,743 - INFO - Processed email from "Ko-fi.com" <hello@ko-fi.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:17,242 - INFO - Processed email from Ko-fi@Ko-fi.com: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:17,729 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:18,202 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:18,688 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:47:19,160 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <confirm@account.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:19,597 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:20,022 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:20,464 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:20,928 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 16:47:21,358 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:21,787 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@explore.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:22,256 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:22,708 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:23,172 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:23,683 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:24,157 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:24,777 - INFO - Processed email from =?iso-8859-1?q?My=A0Kaspersky?= <noreply@mail.my.kaspersky.com>: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:47:25,304 - INFO - Processed email from noreply@email.hoyoverse.com: Phishing Detected! Intent: Malware Delivery
+2025-09-28 16:47:25,813 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:26,299 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:26,767 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:27,247 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:27,728 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncp.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:28,147 - INFO - Processed email from "=?utf-8?q?Kong_Tamilan_via_Pinterest?=" <activity@notifications.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:28,572 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:29,005 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <activity@notifications.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:29,493 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:29,937 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:30,397 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:30,909 - INFO - Processed email from "Microsoft Copilot" <Copilot@engagement.microsoft.com>: Phishing Detected! Intent: Scam Offer
+2025-09-28 16:47:31,361 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <activity@notifications.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:31,837 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:32,327 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:32,842 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:33,311 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@explore.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:33,773 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <pinterest-recommendations@ideas.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:34,287 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:34,934 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:35,397 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:35,887 - INFO - Processed email from "Call of Duty" <callofduty@comms.activision.com>: Safe Email (Ham)
+2025-09-28 16:47:36,356 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:36,857 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@explore.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:37,358 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:37,817 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:38,317 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:38,817 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:39,297 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:39,723 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:40,169 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:40,587 - INFO - Processed email from YouTube <no-reply@youtube.com>: Safe Email (Ham)
+2025-09-28 16:47:41,030 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:41,478 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:41,947 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:42,424 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:42,850 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:43,255 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:43,680 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:44,143 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-09-28 16:47:44,597 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@explore.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:45,067 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-09-28 16:47:45,557 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:04:45,736 - INFO - ML models loaded successfully
+2025-10-04 13:09:47,741 - INFO - Connected to mailbox successfully
+2025-10-04 13:09:48,904 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:49,454 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:49,897 - INFO - Processed email from Spotify <no-reply@spotify.com>: Phishing Detected! Intent: Malware Delivery
+2025-10-04 13:09:50,427 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:50,874 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:51,272 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:52,156 - INFO - Processed email from Proton <no-reply@offers.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:09:52,558 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@explore.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:52,969 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:53,362 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:53,786 - INFO - Processed email from YouTube <no-reply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:09:54,195 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:54,592 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:09:55,019 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:55,422 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:55,829 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:56,238 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <pinterest-recommendations@ideas.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:56,734 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:09:57,163 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@explore.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:57,697 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:09:58,931 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:10:00,284 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:01,637 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:02,040 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:10:02,487 - INFO - Processed email from Discord <noreply@discord.com>: Safe Email (Ham)
+2025-10-04 13:10:02,953 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:03,408 - INFO - Processed email from YouTube <no-reply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:03,821 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:04,229 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:05,071 - INFO - Processed email from Proton <no-reply@offers.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:05,560 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:10:05,973 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:06,436 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:06,989 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:07,431 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:07,919 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:08,337 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:08,833 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:09,250 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:09,758 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:10,172 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:10:10,581 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:11,082 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:11,540 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:12,018 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:12,624 - INFO - Processed email from Quora Digest <english-personalized-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:13,229 - INFO - Processed email from Google Play <googleplay-noreply@google.com>: Safe Email (Ham)
+2025-10-04 13:10:13,778 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:14,266 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:14,830 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:15,281 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@inspire.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:10:15,710 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:16,141 - INFO - Processed email from "Wuthering Waves" <wuwapromotion@email.kurogame.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:16,550 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:17,222 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:17,860 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:18,299 - INFO - Processed email from =?UTF-8?B?RmxpcGthcnQ=?= <no-reply@ncb.flipkart.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:19,190 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:19,645 - INFO - Processed email from Google Gemini <google-gemini-noreply@google.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:20,097 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:20,496 - INFO - Processed email from "=?utf-8?q?Pinterest?=" <recommendations@explore.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:10:20,919 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:21,345 - INFO - Processed email from Google Gemini <google-gemini-noreply@google.com>: Safe Email (Ham)
+2025-10-04 13:10:21,815 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:22,355 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:22,869 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:23,273 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:23,682 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:24,100 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Phishing Detected! Intent: Financial Fraud
+2025-10-04 13:10:24,515 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:25,016 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:25,429 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:25,942 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:26,344 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:27,019 - INFO - Processed email from Proton <no-reply@news.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:27,457 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Safe Email (Ham)
+2025-10-04 13:10:27,873 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:28,296 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:28,697 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:29,119 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:29,522 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:29,932 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:30,333 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:30,857 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:31,261 - INFO - Processed email from LootBar.gg <wuwaservice@edm.lootbar.gg>: Safe Email (Ham)
+2025-10-04 13:10:31,661 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:32,069 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:32,496 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:32,893 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:33,318 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:35,650 - INFO - Processed email from Proton <no-reply@news.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:36,954 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:38,154 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:38,542 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:38,973 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:39,460 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:39,954 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:40,367 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:40,793 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:41,178 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:41,599 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:42,011 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:42,421 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:42,923 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:43,356 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:43,779 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:44,188 - INFO - Processed email from Smartprix.com <noreply@smartprix.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:44,626 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:45,089 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:45,499 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:47,471 - INFO - Processed email from Proton <no-reply@news.proton.me>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:48,049 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:48,466 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:48,871 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:49,290 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:49,695 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:50,101 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:50,518 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:50,934 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:51,372 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:51,841 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:52,257 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:52,666 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:53,093 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:53,587 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:53,994 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:54,412 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:54,812 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:55,228 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:10:55,802 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-10-04 13:10:56,287 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:56,718 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:10:57,165 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:57,588 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:58,082 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:58,490 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:58,912 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:59,424 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:10:59,834 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:00,248 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:00,706 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:01,166 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:01,583 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:01,987 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:11:02,451 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:03,007 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:03,484 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:03,932 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:04,429 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:04,853 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Phishing Detected! Intent: Financial Fraud
+2025-10-04 13:11:05,285 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:05,777 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:06,178 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:06,588 - INFO - Processed email from Quora Suggested Spaces <hindunationalists-space@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:07,064 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:07,468 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:07,879 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:08,335 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:08,752 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:09,206 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:09,664 - INFO - Processed email from Quora <curiosity-noreply@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:10,094 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:10,691 - INFO - Processed email from Quora Suggested Spaces <nationfirstrastrasarvopari-space@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:12,046 - INFO - Processed email from Brave Community <notifications@brave.discoursemail.com>: Safe Email (Ham)
+2025-10-04 13:11:13,149 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:14,150 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:14,629 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:15,184 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:15,862 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:11:17,191 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:18,251 - INFO - Processed email from "Steam Team" <noreply@steampowered.com>: Safe Email (Ham)
+2025-10-04 13:11:18,980 - INFO - Processed email from Canva <marketing@engage.canva.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:19,431 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:19,839 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Safe Email (Ham)
+2025-10-04 13:11:20,308 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:20,795 - INFO - Processed email from Canva <marketing@engage.canva.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:21,240 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:21,661 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Safe Email (Ham)
+2025-10-04 13:11:22,105 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:22,556 - INFO - Processed email from Brave Community <notifications@brave.discoursemail.com>: Safe Email (Ham)
+2025-10-04 13:11:22,961 - INFO - Processed email from Quora Suggested Spaces <buzztimes-space@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:23,489 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:24,001 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:24,598 - INFO - Processed email from Pinterest <recommendations@discover.pinterest.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:25,198 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:25,822 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:26,240 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:26,766 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:27,170 - INFO - Processed email from Google <no-reply@accounts.google.com>: Phishing Detected! Intent: Malware Delivery
+2025-10-04 13:11:27,699 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:28,292 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:28,900 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:29,319 - INFO - Processed email from Quora Suggested Spaces <buzztimes-space@quora.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:29,743 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:30,185 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:30,656 - INFO - Processed email from Slidesgo <info@slidesgo.com>: Phishing Detected! Intent: Malware Delivery
+2025-10-04 13:11:31,071 - INFO - Processed email from Slidesgo <info@slidesgo.com>: Phishing Detected! Intent: Malware Delivery
+2025-10-04 13:11:31,478 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:31,887 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:32,295 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:32,703 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:33,128 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:33,605 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:34,037 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:34,442 - INFO - Processed email from Brave Community <notifications@brave.discoursemail.com>: Safe Email (Ham)
+2025-10-04 13:11:34,890 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:35,319 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:35,743 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:36,155 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:11:36,584 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:36,990 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:37,434 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:37,897 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:38,335 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:38,759 - INFO - Processed email from "Coursera" <Coursera@m.learn.coursera.org>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:39,209 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:39,674 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:40,202 - INFO - Processed email from Brave Community <notifications@brave.discoursemail.com>: Safe Email (Ham)
+2025-10-04 13:11:40,667 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:41,107 - INFO - Processed email from Google AI Studio <googleaistudio-noreply@google.com>: Safe Email (Ham)
+2025-10-04 13:11:41,547 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:42,015 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:42,434 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:11:42,840 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:43,318 - INFO - Processed email from Quora Digest <english-quora-digest@quora.com>: Safe Email (Ham)
+2025-10-04 13:11:43,735 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:44,141 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:11:44,564 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)
+2025-10-04 13:11:45,014 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:45,561 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:46,310 - INFO - Processed email from YouTube <noreply@youtube.com>: Phishing Detected! Intent: Scam Offer
+2025-10-04 13:11:46,887 - INFO - Processed email from YouTube <noreply@youtube.com>: Safe Email (Ham)

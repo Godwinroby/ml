@@ -1,3 +1,4 @@
-datasets/phishing_email.csv 
-datasets/combinedemailsdataset.csv 
-datasets/combined_emails_dataset.csv
+*combinedemailsdataset.csv 
+*combined_emails_dataset.csv 
+*phishing_email.csv 
+phishing_type_model.pkl
