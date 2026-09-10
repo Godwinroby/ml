@@ -1,0 +1,33 @@
+                    ┌────────────────────┐
+                    │  Incoming Email    │
+                    │ (Subject + Body)   │
+                    └────────┬───────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │  Text Preprocessing │
+                  │  - Clean (regex)    │
+                  │  - Lowercase        │
+                  └────────┬────────────┘
+                           ▼
+                  ┌─────────────────────┐
+                  │ TF-IDF Vectorization│
+                  └────────┬────────────┘
+                           ▼
+              ┌────────────────────────────┐
+              │  Phase 1: Phishing Detector│
+              │  (Stacked: XGB + CAT + LR) │
+              └────────┬────────────┬──────┘
+                       │            │
+              If Ham ──┘            │ If Phishing
+                                    ▼
+                    ┌──────────────────────────────┐
+                    │ Phase 2: Intent Classifier    │
+                    │  (Random Forest + TF-IDF)     │
+                    └────────┬──────────────────────┘
+                             ▼
+             ┌────────────────────────────────────────┐
+             │ Intent Output (e.g.,                   │
+             │ Credential Harvesting, Financial Fraud,│
+             │ Scam Offer, Malware Delivery, etc.)    │
+             └────────────────────────────────────────┘

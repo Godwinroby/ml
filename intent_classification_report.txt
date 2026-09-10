@@ -1,0 +1,10 @@
+                     precision    recall  f1-score   support
+
+Credential Harvesting       1.00      0.99      1.00      8579
+      Financial Fraud       0.98      0.98      0.98       706
+     Malware Delivery       0.99      0.90      0.94       297
+           Scam Offer       0.98      1.00      0.99      4688
+
+             accuracy                           0.99     14270
+            macro avg       0.99      0.97      0.98     14270
+         weighted avg       0.99      0.99      0.99     14270
