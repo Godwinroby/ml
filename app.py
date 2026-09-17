@@ -7,8 +7,8 @@ st.set_page_config(page_title="Email Phishing Detector", page_icon="🛡️", la
 st.title("🛡️ Email Phishing Detector")
 st.info("Loading models, this may take 10-30 seconds...")
 
-detection_model_path = r"C:\Users\Godwin Arulraj\Desktop\ml\trained_model.pkl"
-intent_model_path = r"C:\Users\Godwin Arulraj\Desktop\ml\intent_classifier.pkl"
+detection_model_path = "trained_model.pkl"
+intent_model_path = "intent_classifier.pkl"
 
 try:
     with st.spinner('Loading ML models...'):
@@ -60,4 +60,3 @@ if st.button("Analyze Email (Phishing Detection)"):
 
 st.caption("Email security tool powered by your ML models.")
 import os
-os.system("pause")
